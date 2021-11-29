@@ -29,9 +29,6 @@ public class FirstsecondLargestNuber{
     for (int i = 0; i < n; i++) {
         System.out.println(" "+arr[i]);
     }
-System.out.print("Seconf largest number in give array is: "+arr[n-2] );//
-
-    // int a[]={1,2,5,6,3,2};  
-// System.out.println("Second Largest: "+getSecondLargest(a,6));  
+System.out.print("Seconf largest number in give array is: "+arr[n-2] );//  
     }
 }  
